@@ -17,8 +17,8 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
       with:
         header: "Hey, I'm Curious-01! 👋"
-        subhead: "Currently bla-bla."
-        footer: "**Learn more about me at [curious-01.github.io](https://curious-01.github.io)!**"
+        subhead: "Currently I am learning everything about everything!"
+        footer: "**Checkout my story @ [curious-01.github.io](https://curious-01.github.io)!**"
         ref: "main"
         excludeActivity: '["WatchEvent"]'
         excludeRepo: '["YogeshJain96/YogeshJain96"]'

@@ -21,4 +21,4 @@ jobs:
         footer: "**Learn more about me at [curious-01.github.io](https://curious-01.github.io)!**"
         ref: "main"
         excludeActivity: '["WatchEvent"]'
-        excludeRepo: '["yogeshjain96/yogeshjain96"]'
+        excludeRepo: '["YogeshJain96/YogeshJain96"]'

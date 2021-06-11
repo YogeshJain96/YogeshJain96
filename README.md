@@ -1,6 +1,6 @@
 ## Hey, I'm Curious-01! 👋
 
-Currently bla-bla.
+Currently I am learning everything about everything!
 
 ---
 
@@ -16,4 +16,4 @@ Currently bla-bla.
 
 ---
 
-**Learn more about me at [curious-01.github.io](https://curious-01.github.io)!**
+**Checkout my story @ [curious-01.github.io](https://curious-01.github.io)!**

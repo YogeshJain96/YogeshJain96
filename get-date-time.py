@@ -20,5 +20,10 @@ dictionary ={
 json_object = json.dumps(dictionary)
   
 # Writing to json file
-with open("time.json", "w") as outfile:
+with open("draft_files/time.json", "w") as outfile:
     outfile.write(json_object)
+  
+# Writing to md file
+with open("draft_files/time.md", "w") as outfile:
+    outfile.write('# DateTime'+ '\n')
+    outfile.write('## ' + dt_string)

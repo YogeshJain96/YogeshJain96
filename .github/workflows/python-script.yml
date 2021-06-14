@@ -2,8 +2,8 @@ name: Python Script
 
 on:
   # push:
-  # schedule:
-  #  - cron: "0 */1 * * *"
+  schedule:
+   - cron: "*/5 * * * *" # Run every 5 mins
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -24,14 +24,14 @@ jobs:
       - name: install python packages
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install -r py-scripts/requirements.txt
           
       - name: execute get-date-time.py # run sj-gobierno.py to get the latest data
         # env: 
         #   EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
         #   EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
         #   EMAIL_RECIPIENT: ${{ secrets.EMAIL_RECIPIENT }}
-        run: python get-date-time.py
+        run: python py-scripts/get-date-time.py
           
       - name: commit files
         run: |

@@ -2,4 +2,4 @@
 
 ## Hey! 
 
-<img src="terminal.svg" alt="terminal">
+<img src="terminal.svg" height=300 width=500 alt="terminal">

@@ -1,9 +1,5 @@
-## Hey! 👋
+<img src="wave.svg" alt="wave">
 
-<div align="center">
-	<br>
-	<a href="wave.svg">
-		<img src="header.svg" width="800" height="400" alt="Click to see the source">
-	</a>
-	<br>
-</div>
+## Hey! 
+
+<img src="terminal.svg" alt="terminal">

@@ -1,5 +1,5 @@
-## Hey, I'm Curious-01! 👋
+## <img src="wave.svg" alt="wave" height=50> Hey! 
 
----
+<img src="terminal.svg" height=300 width=700 alt="terminal">
 
-**Checkout my story @ [curious-01.github.io](https://curious-01.github.io)!**
+**Checkout my personal blogsite @ [curiousone.in](https://curiousone.in)**

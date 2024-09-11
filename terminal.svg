@@ -135,7 +135,7 @@
                 </div>
                 <div class="terminal-window">
                     <p class="terminal__prompt">➜ <span class="terminal-prompt-typing"><span class="cover cover-query"></span>whoami</span></p>
-                    <p class="terminal__prompt terminal-prompt-response">Curious, Full Stack Developer</p>
+                    <p class="terminal__prompt terminal-prompt-response">Hello, I'm Yogesh Jain. A Curious, Full Stack Developer!</p>
                 </div>
             </div>
         </div>    

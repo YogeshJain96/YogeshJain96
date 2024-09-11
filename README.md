@@ -1,5 +1,5 @@
-<img src="wave.svg" alt="wave">
+## <img src="wave.svg" alt="wave" height=50> Hey! 
 
-## Hey! 
+<img src="terminal.svg" height=300 width=700 alt="terminal">
 
-<img src="terminal.svg" height=300 width=500 alt="terminal">
+**Checkout my personal blogsite @ [curiousone.in](https://curiousone.in)**
